@@ -45,7 +45,7 @@ Also, I'd like to give a huge shoutout to Mrs. Crosland for bringing treats ever
 
 **Choose one of the activites, honors or awards that relate to community service/citizenship qualification and describe it briefly.**
 
-This year I am serving as the MATHCOUNTS coach for Centennial Middle School. We meet once a week after school. I create handouts and teach lessons to help them prepare for the MATHCOUNTS competition. We also take timed tests and practice speed math (e.g. gauntlets and the countdown round). Here are links to two handouts I've created: [Counting Handout](https://latex.artofproblemsolving.com/miscpdf/vdwpmzvt.pdf), [Complex Intro Handout](https://latex.artofproblemsolving.com/miscpdf/ynjodmui.pdf).
+This year I am serving as the MATHCOUNTS coach for Centennial Middle School. We meet once a week after school. I create handouts and teach lessons to help them prepare for the MATHCOUNTS competition. We also take timed tests and practice speed math (e.g. gauntlets and the countdown round). Here are links to two handouts I've created: [Counting Handout](handouts/Counting.pdf), [Complex Intro Handout](handouts/ComplexIntro.pdf).
 
 This is my first year coaching MATHCOUNTS, but I've been tutoring others math for much longer (informally and for free), which has helped me become a more effective teacher—many people have told me I'm really good at explaining difficult concepts. I love helping others love math as much as I do, so I'm always glad to help out!
 
