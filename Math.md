@@ -53,8 +53,6 @@ This is my first year coaching MATHCOUNTS, but I've been tutoring others math fo
 
 **Describe two or three unique things about yourself and relate them to your category. If possible, include challenges you have overcome and describe any distinctive experiences that have affected you.**
 
-<Talk about something more positive...>
-
 I'm a twin, and in ninth grade I took many classes with juniors and seniors. This led to the issue where lots of people knew *of* me, but no one actually knew me. Random juniors and seniors would come up to me in the halls and ask, "Are you the Camacho twins? I've heard all about you!" It was weird, even a little creepy. I didn't know them, and I had no clue how they'd heard of me or why they thought it was appropriate to invade my mental space like that.
 
 Plus, had they really heard all about me? If so, then why was I just called one of the Camacho twins? I was lucky to get a James-or-Joseph-but-I-can-never-remember-which-one-you-are. If they'd heard all about me, then how come they didn't even know the color of my skin? Many people thought I was Asian, because surely if someone's into math they must be Asian, and Camacho kinda sounds Asian-esque if you pronounce it Cuh-mah-chew. No, I'm not Asian, and no, I'm not just one half of a set of twins. I'm just as distinctive of a human being as every other human on the planet.
