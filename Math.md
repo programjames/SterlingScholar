@@ -10,6 +10,7 @@
 - 1st Place Intermountain Math Contest (10th grade, $300 cash prize).
 - Top 100 Putnam (11th grade).
 - 30th at National MATHCOUNTS, 1st in Utah (8th grade).
+- 1st Place Math Madness Team (10th grade).
 
 **Choose one of the activities, honors or awards, describe it briefly and explain why it was meaningful to you. What did you learn and what did you accomplish?**
 
@@ -29,6 +30,7 @@ Morever, the problems on the Putnam are so interesting! You get six hours to sol
 - Computer Science Club Founder/President (10th Grade)
 - Utah MATHCOUNTS Team Captain (8th Grade)
 - Informal leadership: inviting peers to participate in numerous math/science competitions (8–12th grades).
+- 2nd Assistant of Priest's Quorum
 
 **Choose one of the activities, honors or awards that relate to the leadership qualification and describe it briefly.**
 
@@ -50,6 +52,8 @@ This year I am serving as the MATHCOUNTS coach for Centennial Middle School. We 
 This is my first year coaching MATHCOUNTS, but I've been tutoring others math for much longer (informally and for free), which has helped me become a more effective teacher—many people have told me I'm really good at explaining difficult concepts. I love helping others love math as much as I do, so I'm always glad to help out!
 
 **Describe two or three unique things about yourself and relate them to your category. If possible, include challenges you have overcome and describe any distinctive experiences that have affected you.**
+
+<Talk about something more positive...>
 
 I'm a twin, and in ninth grade I took many classes with juniors and seniors. This led to the issue where lots of people knew *of* me, but no one actually knew me. Random juniors and seniors would come up to me in the halls and ask, "Are you the Camacho twins? I've heard all about you!" It was weird, even a little creepy. I didn't know them, and I had no clue how they'd heard of me or why they thought it was appropriate to invade my mental space like that.
 
