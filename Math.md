@@ -29,8 +29,8 @@ Morever, the problems on the Putnam are so interesting! You get six hours to sol
 - Science Bowl Team Captain (11th Grade)
 - Computer Science Club Founder/President (10th Grade)
 - Utah MATHCOUNTS Team Captain (8th Grade)
-- Informal leadership: inviting peers to participate in numerous math/science competitions (8–12th grades).
 - 2nd Assistant of Priest's Quorum
+- Informal leadership: inviting peers to participate in numerous math/science competitions (8–12th grades).
 
 **Choose one of the activities, honors or awards that relate to the leadership qualification and describe it briefly.**
 

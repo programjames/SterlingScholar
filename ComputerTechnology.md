@@ -9,7 +9,7 @@
 - USA Computing Olympiad Gold Level (2019).
 - 2nd From BYU, 5th Overall Lucid Programming Competition ($200 prize, 2020).
 - 17th MIT Battlecode (2019).
-- 1st In Utah, ~50th Overall Putnam Math Contest (the most prestigious undergraduate math contest in the world, 2021).
+- 1st In Utah, ~50th Overall Putnam Math Contest (the most prestigious undergraduate math contest in the United States, 2021).
 - 1st Place Intermountain Math Contest (2019, $300 cash prize).
 
 **Choose one of the activities, honors or awards, describe it briefly and explain why it was meaningful to you. What did you learn and what did you accomplish?**
