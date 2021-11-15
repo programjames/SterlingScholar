@@ -59,4 +59,4 @@ It was frustrating. I made a few friends at cross country and in the freshman cl
 
 **How do you think your involvement in this category will enrich your life?**
 
-I've planned to be a mathematician even as far back as first grade. Back then I was barely learning my times tables, and didn't know exactly what being a mathematician entailed, but the more I've learned the more I've loved the career. I did applied math research with Coreform over the summer, and it was fun to use generating functions to collapse a recursive algorithm into a clean two lines of code, or use the discrete cosine transform to multiply Chebyshev vectors in O(n log n) time instead of O(n^2). I've already been able to use the math I've learned to work on interesting problems. I know that in the future I'll continue to use it every day.
+<Oops I need to write this one.>
