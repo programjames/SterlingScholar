@@ -59,4 +59,8 @@ It was frustrating. I made a few friends at cross country and in the freshman cl
 
 **How do you think your involvement in this category will enrich your life?**
 
-<Oops I need to write this one.>
+I've wanted to go into STEM for as long as I can remember. In first grade I wrote "I want to be a mathmatician" (with that spelling). In fifth grade I coded up small games like Bomberman or Tron in Python, and thought maybe programming would fun. In ninth grade I took AP Chemistry, and thought chemistry could be cool. Now, in twelfth grade, I know I don't have to pick just one. I can use math, coding, and science all together.
+
+Some people would call it "applied math", others would call it "theoretical physics", or "computational chemistry", but really, these fields are not so different. Over the summer I did research at Coreform, a company that specializes in engineering simulations. The manager was a professor in civil engineering, and yet the projects I worked on were filled with advanced math and coding algorithms.
+
+I want to go into applied math, to use my coding and math skills with the science I've learned and will learn to better the world.
