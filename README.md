@@ -1,4 +1,4 @@
-# Sterling Scholar Applications—James Camacho
+# James Camacho
 
 ## [Regional/State Application](./Essays.md)
 
