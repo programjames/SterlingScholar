@@ -39,7 +39,7 @@ In tenth grade I noticed Timpview didn't have a computer science club, so I crea
 
 **Choose one of the activites, honors or awards that relate to community service/citizenship qualification and describe it briefly.**
 
-Teaching others math is so fun! I text my friends math problems on a regular basis, e.g. find the maximum value of x₁x₂+x₂x₃+⋅⋅⋅+xₙx₁ if x₁+x₂+⋅⋅⋅+xₙ=0 and x₁²+x₂²+⋅⋅⋅xₙ^2=1. I give them a few days to stew over it, and if they can't figure it out I teach them how to do it using Lagrange multipliers and eigenvalues.
+Teaching others math is so fun! I text my friends math problems on a regular basis, e.g. find the maximum value of x₁x₂+x₂x₃+⋅⋅⋅+xₙx₁ if x₁+x₂+⋅⋅⋅+xₙ=0 and x₁²+x₂²+⋅⋅⋅xₙ²=1. I give them a few days to stew over it, and if they can't figure it out I teach them how to do it using Lagrange multipliers and eigenvalues.
 
 I don't just teach math, I also love the other STEM subjects! Just a few months ago at the end of term, a friend texted me desperately needing help in her AP chemistry class. I spent five hours helping her review molarity and gas laws, and yes, she did end up getting an A.
 
