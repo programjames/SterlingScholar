@@ -115,3 +115,8 @@ When I approach math problems, I don't just need a solution. I need a beautiful 
 I really enjoy solving beautiful problems. Sometimes I come up with them myself. For the Lux AI programming competition, I wanted to solve a modified discrete Poisson equation (modified to add varying resistance to each point). I'd just been learning all about the discrete cosine transform while working at Coreform (I was using it to manipulate Chebyshev functions), and so I looked to see if there were any spectral methods to solving the discrete Poisson equation. There were! I coded it up and got it solved in O(n^2 log n) time—quick enough for my purposes. Of course, I then needed to modify it a little. That was the fun part! My code ended up being less than 100 lines long, but it was a beautiful 100 lines.
 
 Throughout my life, I hope to continue to solve beautiful math problems in my pursuit of the truth.
+
+### Winners Information
+**Winners Information to be read at awards ceremony. In 150 words or less, please use third person voice and list a few top accomplishments and one unique thing about you.**
+
+James Camacho is our Mathematics Sterling Scholar. He has won state math competitions and ranked well at national ones too. Outside of math, Camacho loves computer science, chemistry, and physics. Outside of the STEM fields, Camacho enjoys running on the varisty team, playing the violin in his school's top orchestra, and playing hymns on the piano. In his free time, he likes to volunteer as a MATHCOUNTS coach and teach his friends cool math.
